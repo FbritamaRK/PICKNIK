@@ -22,3 +22,4 @@ silahkan ganti index.php dengan nama file yg berada di folder phpfl untuk mengak
 5. Save edit data	 
 	1. ketika mengedit data ada 2 fungsi dalam satu tombol Save Changes
 	2. Arahkan kursor keatas kata "Changes" lalu klik untuk menyimpan data kemudian arahkan kursor keatas kata "Save" lalu klik untuk kembali ke menu tampilan data
+6. Pengguna juga dapat membuat akun baru dengan registrasi dan log in
